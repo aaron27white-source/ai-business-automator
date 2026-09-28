@@ -6,7 +6,6 @@
 
 This system replaces a fragile n8n node-graph with a single FastAPI server. Every workflow from the original setup was reimplemented as a Python endpoint — testable, version-controlled, and deployable as a Docker container.
 
-**Live:** [5lanxo-ai-automator.hf.space](https://5lanxo-ai-automator.hf.space) (Hugging Face Spaces)
 
 ## Features
 
